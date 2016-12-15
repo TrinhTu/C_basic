@@ -59,7 +59,7 @@
     </body>
 ```
 
-<img src="https://github.com/TrinhTu/web_developer/blob/master/Task18_CSS3_Course/image/20.png" style="float:center;">
+<img src="https://github.com/TrinhTu/web_developer/blob/master/Task18_CSS3_Course/image/20.png" style="float-left:500px;">
 
 <a name="2"></a>
 ### 2. HSL Colors:
